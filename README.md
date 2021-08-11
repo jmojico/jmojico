@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+Did you lost something?
+
+🔭 I’m currently working on automatic trading bot for telegram
+🌱 I’m currently learning Bootstrap 
 
 <!--
 **jmojico/jmojico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
